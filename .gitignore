@@ -165,4 +165,5 @@ chroma/
 secret/
 myenv/
 storage/
-docs/classnotes/
+docs/raw_notes/
+docs/ref_notes/
